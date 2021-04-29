@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Software Developer | Oganizer of Angular Honduras Community and Ng Conf Honduras | Co-Organizer @FlutterHN | Auth0 Ambassador | #AngularLover
+
 <!--
 **ricardochl/ricardochl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
